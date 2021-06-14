@@ -1,0 +1,8 @@
+driver:
+  variant: chrome
+  options:
+    path: driver.chromedriver.exe
+    start-maximized: true
+  experimental_options:
+    download:
+      default_directory: downloads
